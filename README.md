@@ -1,0 +1,2 @@
+# IPCountProject
+This little project is to count how many ip have visited your web location. It will show all the ips and corresponding count number. By using listener to  create Map and store map into servletContext, using filter to generate count and store data into map. There are three jsp pages in this project and no matter which page you visit, the project will count the number and display them on the screen.
